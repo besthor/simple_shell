@@ -319,11 +319,12 @@ $
 
 
 ## Authors ##
-
-👤 **BESTHOR IGBE**
-
-- GitHub: [@besthor] (https://github.com/besthor)
-
 👤 **MOSURO KANYINSOLA OLUBUNMI**
 
-- GitHub: [@](https://github.com)
+- GitHub: [Mosuro1911](https://github.com/Mosuro1911)
+
+👤 `BESTHOR IGBE`
+
+- GitHub: [besthor](https://github.com/besthor)
+
+
